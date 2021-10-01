@@ -1,0 +1,12 @@
+.navbar {
+    border-radius: 0;
+    margin-bottom: 0;
+}
+.padding {
+    padding-top: 3%;
+    padding-bottom: 2%;
+}
+
+.navbar-right p{
+    margin-top: 5.5%;
+}
